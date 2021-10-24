@@ -25,7 +25,7 @@ init("site",{
     name:"Neko Neko Status",
     url:"https://status.nekoneko.cloud",
 });
-init("neko_status_url","https://github.com/nkeonkeo/nekonekostatus/releases/download/v0.1/neko-status");
+init("neko_status_url","https://github.com/marsstatus/releases/download/v0.1/mars-status");
 init("debug",0);
 return {setting};
 }
