@@ -52,7 +52,7 @@ n latest
 克隆仓库并安装所需第三方包
 
 ```bash
-git clone https://github.com/nkeonkeo/nekonekostatus.git
+git clone https://github.com/cnmars/marsstatus.git
 cd nekonekostatus
 npm install
 ```
@@ -108,4 +108,3 @@ systemctl daemon-reload
 systemctl start nekonekostatus
 systemctl enable nekonekostatus
 ```
-sdfsdfsdfsdf
